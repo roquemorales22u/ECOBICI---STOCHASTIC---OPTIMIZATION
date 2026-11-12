@@ -1,0 +1,9 @@
+regla,eliminados,restantes,pct_eliminado
+Registros originales,0,1498934,0.0
+Fecha u hora no legible,0,1498934,0.0
+Duplicados exactos,0,1498934,0.0
+Estación inexistente en el feed,0,1498934,0.0
+Duración ≤ 0,0,1498934,0.0
+Duración > 180 min,538,1498396,0.036
+Menos de 1 min y misma estación (desanclaje fallido),0,1498396,0.0
+Retiro fuera de 2026-09,82,1498314,0.005

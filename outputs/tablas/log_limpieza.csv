@@ -1,0 +1,10 @@
+regla,eliminados,restantes,pct_eliminado
+Registros originales,0,20264648,0.0
+Fecha u hora no legible,0,20264648,0.0
+"Duplicados (misma bici, estaciones y horas)",0,20264648,0.0
+Estación inexistente en el feed,1946,20262702,0.01
+Duración ≤ 0,0,20262702,0.0
+Duración > 180 min,8173,20254529,0.04
+Misma estación y menos de 3 min (no hubo viaje),34149,20220380,0.169
+Velocidad imposible (> 25 km/h),2991,20217389,0.015
+Retiro fuera de la ventana (2025-09-01 a 2026-10-01),93,20217296,0.0
