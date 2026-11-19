@@ -1,0 +1,11 @@
+estación,proceso,dispersión var/media,CV tiempos entre llegadas
+271-272,retiro,2.48,1.07
+273-274,retiro,7.58,1.0
+014,retiro,2.02,1.0
+027,retiro,2.11,0.98
+018,retiro,1.25,0.97
+271-272,devolucion,3.31,1.06
+273-274,devolucion,3.78,1.06
+014,devolucion,1.75,1.0
+027,devolucion,1.44,0.98
+018,devolucion,1.27,0.97
