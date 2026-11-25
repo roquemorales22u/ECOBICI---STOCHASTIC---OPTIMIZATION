@@ -1,0 +1,13 @@
+política,escenario,rechazos (media),IC 95 %,rechazos P95,% demanda atendida,bicis movidas
+sin camión,baja,1056.4,7.6,1257.0,65.2,0.0
+actual,baja,232.7,5.5,396.0,92.3,998.8
+propuesta,baja,115.3,2.6,189.0,96.2,964.3
+propuesta (camión de 40),baja,201.6,4.9,339.0,93.3,876.7
+sin camión,base,1092.2,7.3,1293.0,64.9,0.0
+actual,base,270.6,6.2,454.0,91.3,999.9
+propuesta,base,126.4,2.7,202.0,96.0,1000.2
+propuesta (camión de 40),base,226.2,5.3,388.1,92.8,895.4
+sin camión,alta,1286.5,8.1,1503.1,63.3,0.0
+actual,alta,410.9,7.8,647.0,88.3,1006.3
+propuesta,alta,187.7,3.9,304.0,94.7,1125.6
+propuesta (camión de 40),alta,339.0,6.4,518.0,90.3,961.8

@@ -1,0 +1,9 @@
+estación,hora,proceso,el hueco sugiere estación,P en el modelo,coincide (P ≥ 0.5)
+271-272,5,retiro,vacía,0.0,no
+271-272,9,retiro,vacía,0.93,sí
+271-272,10,retiro,vacía,0.81,sí
+271-272,11,retiro,vacía,0.53,sí
+273-274,7,retiro,vacía,0.01,no
+273-274,8,retiro,vacía,0.5,no
+273-274,9,retiro,vacía,0.88,sí
+273-274,10,retiro,vacía,0.86,sí

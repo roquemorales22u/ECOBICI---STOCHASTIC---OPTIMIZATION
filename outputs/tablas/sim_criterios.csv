@@ -1,0 +1,4 @@
+política,Valor esperado,Laplace,Wald (peor caso),Hurwicz (α = 0.5),Savage (máx. arrepentimiento)
+actual,318.7,304.7,410.9,321.8,223.3
+propuesta,148.3,143.1,187.7,151.5,0.0
+propuesta (camión de 40),265.8,255.6,339.0,270.3,151.4

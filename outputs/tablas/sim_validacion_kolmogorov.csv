@@ -1,0 +1,16 @@
+política,estación,Kolmogorov,Monte Carlo,IC 95 %,dentro del IC
+sin camión,271-272,688.1,688.7,686.1 a 691.4,True
+sin camión,273-274,162.4,162.8,161.3 a 164.3,True
+sin camión,014,116.4,116.4,115.0 a 117.8,True
+sin camión,027,48.6,48.1,46.9 a 49.3,True
+sin camión,018,73.5,73.8,72.5 a 75.2,True
+actual,271-272,104.3,106.5,104.1 a 108.8,True
+actual,273-274,41.9,41.1,39.9 a 42.3,True
+actual,014,28.0,28.3,27.3 a 29.3,True
+actual,027,14.9,14.3,13.4 a 15.1,True
+actual,018,17.6,17.3,16.4 a 18.1,True
+propuesta,271-272,25.2,25.5,24.6 a 26.4,True
+propuesta,273-274,13.6,14.0,13.5 a 14.6,True
+propuesta,014,16.4,17.1,16.4 a 17.8,True
+propuesta,027,27.4,26.8,25.7 a 27.8,True
+propuesta,018,20.0,20.3,19.6 a 21.1,True

@@ -1,0 +1,11 @@
+estacion,proceso,tiempos <= 20 s (obs.),tiempos <= 20 s (Poisson),b
+271-272,retiro,0.42,0.263,1.371
+273-274,retiro,0.313,0.16,1.265
+014,retiro,0.133,0.099,1.044
+027,retiro,0.143,0.111,1.042
+018,retiro,0.131,0.091,1.051
+271-272,devolucion,0.449,0.376,1.229
+273-274,devolucion,0.27,0.17,1.166
+014,devolucion,0.223,0.15,1.112
+027,devolucion,0.151,0.111,1.053
+018,devolucion,0.164,0.113,1.068

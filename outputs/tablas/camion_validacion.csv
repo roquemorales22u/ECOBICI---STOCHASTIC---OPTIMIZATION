@@ -1,0 +1,11 @@
+estación,proceso,observados por día,modelo con camión,modelo sin camión,error medio por hora (con camión),error medio por hora (sin camión)
+271-272,retiros,491.2,477.7,254.2,1.3,12.7
+271-272,devoluciones,678.1,612.7,252.5,3.4,22.4
+273-274,retiros,150.2,163.0,125.6,1.8,2.8
+273-274,devoluciones,221.1,208.5,125.4,0.7,5.0
+014,retiros,218.6,202.4,186.5,0.9,1.7
+014,devoluciones,272.7,260.9,188.4,0.6,4.4
+027,retiros,268.2,257.6,251.1,0.6,0.9
+027,devoluciones,287.8,283.5,256.3,0.2,1.7
+018,retiros,219.4,208.3,196.5,0.6,1.2
+018,devoluciones,250.0,243.5,199.4,0.3,2.7
